@@ -3,7 +3,7 @@ console.log('Hello i am '+name);
   let car = {
     color:["red","blue","green","white","gray"],
     speed:120,
-    maker:"toyota",
+    maker:"honda",
     start: function(){ return "car started";},
     stop : function(){ return "car stoped";} 
   };
