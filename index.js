@@ -18,8 +18,8 @@ console.log('Hello i am '+name);
         return number*factorial(number-1);
     }
   }
-
-
+ var fctnm = document.getElementById("factnum");
+console.log("fctnm= "+fctnm);
 
 /*function createCircle(radius) {
     return {
