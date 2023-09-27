@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New',monospace;
 }
 h1 {
     text-align: center;
@@ -14,7 +14,13 @@ h2 {
     margin-top: 5px;
     margin-left: 20px;}
 
-
+    a {
+        color: #1d1dc2 ;
+        text-decoration: none;
+    }
+    a:hover {
+        color: rgb(7, 196, 230);
+    }
 
 
   /* i think by mistake you forgot to link your css with your html, but  now it's done .*/
